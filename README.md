@@ -16,19 +16,19 @@ What I've learned:
 
 ## How to Install and Run the Project
 
-Clone the project
+1. Clone the project
 
 ```bash
   git clone https://github.com/hykim-soulis/Guess-my-number.git
 ```
 
-Go to the project directory
+2. Go to the project directory
 
 ```bash
   cd my-project
 ```
 
-Double-click the index.html file
+3. Double-click the index.html file
 
 ## Resource
 
