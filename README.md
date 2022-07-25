@@ -1,6 +1,6 @@
 # Guess My Number
 
-The goal of this project is to guess a secret number which is between 1 and 20 in 20 chances in 20 trials.\
+The goal of this project is to guess a secret number which is between 1 and 20 in 20 chances in 20 trials.
 
 ## Project Description
 
