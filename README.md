@@ -1,12 +1,12 @@
 # Guess My Number
 
-The goal of this project is to guess a secret number which is between 1 and 20 in 20 chances in 20 trials.
+The goal of this project is to guess a secret number which is between 1 and 20 in 20 trials. I learned how to implement the game logic with javascript.
 
 ## Project Description
 
-When you guess the number and click check, you can know whether this number is too high or too low. You can guess 20 times and the display keeps your highscore record.
+If you guess the number and click check button, you can know whether your number is too high or too low. You can guess 20 times per game and replay the game with "Again!" button. Your highest score will be recorded during the games.
 
-This project is a coding-along with the Udemy The Complete JavaScript Course 2022 by Jonas Schmedtmann. HTML and CSS files were provided by the instructor.
+This project is a coding-along with the Udemy The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML and CSS files were provided by the instructor.
 
 What I've learned:
 
@@ -35,3 +35,5 @@ What I've learned:
 The below link is the instructors github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-javascript-course.git)
+
+Go to complete-javascript-course/05-Guess-My-Number/starter/
