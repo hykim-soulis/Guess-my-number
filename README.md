@@ -8,11 +8,15 @@ If you guess the number and click check button, you can know whether your number
 
 This project is a coding-along with the Udemy The Complete JavaScript Course 2022 by instructor Jonas Schmedtmann. HTML and CSS files were provided by the instructor.
 
-What I've learned:
+### What I've learned:
 
 - DOM Manipulation
 - CSS Style Manipulation
 - Event Handling
+
+### Live demo link
+
+[https://guessmynumber-hyeyoung.netlify.app/](https://guessmynumber-hyeyoung.netlify.app/)
 
 ## How to Install and Run the Project
 
