@@ -36,7 +36,7 @@ This project is a coding-along with the Udemy The Complete JavaScript Course 202
 
 ## Resource
 
-The below link is the instructors github address.
+The below link is the instructor's github address.
 
 [Instructor's GitHub](https://github.com/jonasschmedtmann/complete-javascript-course.git)
 
